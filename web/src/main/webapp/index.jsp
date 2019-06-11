@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage.... This is fantastic Leke. Good Job</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Super Simple Example Web Page.  This is fantastic Leke. Good Job</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    This is a very simple example web page on a JSP.  This is fantastic Leke. Good Job
   </p>
 </body>
 </html>
