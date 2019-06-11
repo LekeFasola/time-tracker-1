@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page.</h1>
+  <h1>Super Simple Example Web Page. This shows Jenkins succesfully deploys to Tomcat... Good Job Leke</h1>
   <p>
-    This is a very simple example web page on a JSP. 
+    This is a very simple example web page on a JSP. This is an exciting Project
   </p>
 </body>
 </html>
